@@ -16,7 +16,7 @@ Repositório destinado a realização do trabalho da disciplina de Projeto de Al
 
 ### Resultado leetcode 630
 
-![Resultado leetcode 630]()
+![Resultado leetcode 630](/Problemas/630.%20Course%20Schedule%20III/resolucao.png)
 
 ### Resultado leetcode 1402
 
