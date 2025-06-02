@@ -14,24 +14,24 @@ Repositório destinado a realização do trabalho da disciplina de Projeto de Al
 
 ## Screenshots
 
-### Resultado leetcode 630
+### Resultado leetcode 630. Course Schedule III
 
 ![Resultado leetcode 630](/Problemas/630.%20Course%20Schedule%20III/resolucao.png)
 
-### Resultado leetcode 1402
+### Resultado leetcode 1402. Reducing Dishes
 
-![Resultado leetcode 1402]()
+![Resultado leetcode 1402](/Problemas/1402.%20Reducing%20Dishes/resolucao.png)
 
-### Resultado leetcode 2071
+### Resultado leetcode 135. Candy
 
-![Resultado leetcode 2071]()
+![Resultado leetcode 135](/Problemas/135.%20Candy/resolucao.png)
 
 ## Problemas e Soluções
 | Problema | Dificuldade | 1 Vídeo Para as 3 Soluções |
 | -- | -- | -- |
 | [630. Course Schedule III](https://leetcode.com/problems/course-schedule-iii/description/)  |  Difícil | [Vídeo]() |
 | [1402. Reducing Dishes](https://leetcode.com/problems/reducing-dishes/description/)  |  Difícil | [Vídeo]() |
-| [2071. Maximum Number of Tasks You Can Assign](https://leetcode.com/problems/maximum-number-of-tasks-you-can-assign/description/)  |  Difícil | [Vídeo]() |
+| [135. Candy](https://leetcode.com/problems/candy/description/)  |  Difícil | [Vídeo]() |
 
 ## Instalação 
 **Linguagem**: Python3<br>
