@@ -1,30 +1,40 @@
-# Greed
+# Greed_Leetcoders
 
 **Número da Lista**: 3<br>
 **Conteúdo da Disciplina**: Algoritmos Ambiciosos<br>
 
 ## Alunos
-|Matrícula | Aluno |
+| Matrícula | Aluno |
 | -- | -- |
 | 22/2014975  |  Cairo Florenço |
-| xx/xxxxxx  |  Gustavo Haubert |
+| 22/2024793  |  Gustavo Feitosa |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+Repositório destinado a realização do trabalho da disciplina de Projeto de Algoritmos 2025.1
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+
+### Resultado leetcode 630
+
+![Resultado leetcode 630]()
+
+### Resultado leetcode 1402
+
+![Resultado leetcode 1402]()
+
+### Resultado leetcode 2071
+
+![Resultado leetcode 2071]()
+
+## Problemas e Soluções
+| Problema | Dificuldade | 1 Vídeo Para as 3 Soluções |
+| -- | -- | -- |
+| [630. Course Schedule III]([https://leetcode.com/problems/trapping-rain-water-ii/description/](https://leetcode.com/problems/course-schedule-iii/description/))  |  Difícil | [Vídeo]() |
+| [1402. Reducing Dishes](https://leetcode.com/problems/reducing-dishes/description/)  |  Difícil | [Vídeo]() |
+| [2071. Maximum Number of Tasks You Can Assign](https://leetcode.com/problems/maximum-number-of-tasks-you-can-assign/description/)  |  Difícil | [Vídeo]() |
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
-
-## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
-
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+**Linguagem**: Python3<br>
 
 
 
