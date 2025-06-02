@@ -29,9 +29,9 @@ Repositório destinado a realização do trabalho da disciplina de Projeto de Al
 ## Problemas e Soluções
 | Problema | Dificuldade | 1 Vídeo Para as 3 Soluções |
 | -- | -- | -- |
-| [630. Course Schedule III](https://leetcode.com/problems/course-schedule-iii/description/)  |  Difícil | [Vídeo]() |
-| [1402. Reducing Dishes](https://leetcode.com/problems/reducing-dishes/description/)  |  Difícil | [Vídeo]() |
-| [135. Candy](https://leetcode.com/problems/candy/description/)  |  Difícil | [Vídeo]() |
+| [630. Course Schedule III](https://leetcode.com/problems/course-schedule-iii/description/)  |  Difícil | [Vídeo](https://www.youtube.com/watch?v=PYYmC30KVJY) |
+| [1402. Reducing Dishes](https://leetcode.com/problems/reducing-dishes/description/)  |  Difícil | [Vídeo](https://www.youtube.com/watch?v=PYYmC30KVJY) |
+| [135. Candy](https://leetcode.com/problems/candy/description/)  |  Difícil | [Vídeo](https://www.youtube.com/watch?v=PYYmC30KVJY) |
 
 ## Instalação 
 **Linguagem**: Python3<br>
